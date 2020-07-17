@@ -10,4 +10,4 @@ nodeGroups:
      desiredCapacity: 4
      instanceType: t2.micro
      ssh:
-        publicKeyName:  ekskey
+        publicKeyName:  saikey
